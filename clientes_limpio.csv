@@ -1,0 +1,31 @@
+ID,Nombre,Edad,Ciudad,Total_Compras,Monto_Total
+1.0,Ana,25.0,Buenos Aires,5.0,2500.0
+2.0,Luis,34.0,Córdoba,2.0,1200.0
+3.0,Carlos,45.0,Rosario,0.0,0.0
+4.0,Marta,29.0,Mendoza,3.0,1800.0
+5.0,Jorge,31.0,La Plata,8.0,3200.0
+6.0,Lucía,28.0,Salta,10.0,4100.0
+7.0,Pedro,36.107142857142854,Tucumán,1.0,400.0
+8.0,Sofía,33.0,Santa Fe,4.0,2100.0
+9.0,Diego,42.0,Neuquén,7.0,3300.0
+10.0,Valentina,30.0,Bahía Blanca,6.0,2950.0
+1.0,Ana,25.0,Buenos Aires,5.0,2500.0
+2.0,Luis,34.0,Córdoba,2.0,1200.0
+3.0,Carlos,45.0,Rosario,0.0,0.0
+4.0,Marta,29.0,Mendoza,3.0,1800.0
+5.0,Jorge,31.0,La Plata,8.0,3200.0
+6.0,Lucía,28.0,Salta,10.0,4100.0
+7.0,Pedro,36.107142857142854,Tucumán,1.0,400.0
+8.0,Sofía,33.0,Santa Fe,4.0,2100.0
+9.0,Diego,42.0,Neuquén,7.0,3300.0
+10.0,Valentina,30.0,Bahía Blanca,6.0,2950.0
+101.0,Cliente_Extra_1,56.0,Santiago,11.0,2500.0
+102.0,Cliente_Extra_2,46.0,Santiago,8.0,6298.32354161987
+103.0,Cliente_Extra_3,32.0,Santiago,5.0,503.5044462845645
+104.0,Cliente_Extra_4,60.0,Santiago,4.0,4964.952016810479
+105.0,Cliente_Extra_5,25.0,Santiago,8.0,3278.6667933247245
+106.0,Cliente_Extra_6,38.0,Santiago,8.0,3252.439222197264
+107.0,Cliente_Extra_7,56.0,Santiago,3.0,531.7983734887283
+108.0,Cliente_Extra_8,36.0,Santiago,6.0,603.7809126863709
+109.0,Cliente_Extra_9,40.0,Santiago,5.0,2861.485971162751
+110.0,Cliente_Extra_10,28.0,Santiago,2.0,2299.3743727186497

@@ -1,0 +1,21 @@
+ID,Nombre,Edad,Ciudad,Total_Compras,Monto_Total,Ticket_Promedio,Categoria_Cliente,Rango_Etario
+1,Ana,25,Buenos Aires,5.0,2500.0,500.0,Regular,Joven
+2,Luis,34,Córdoba,2.0,1200.0,600.0,Regular,Adulto
+3,Carlos,45,Rosario,0.0,0.0,,Regular,Adulto
+4,Marta,29,Mendoza,3.0,1800.0,600.0,Regular,Joven
+5,Jorge,31,La Plata,8.0,3200.0,400.0,Premium,Adulto
+6,Lucía,28,Salta,10.0,4100.0,410.0,Premium,Joven
+7,Pedro,36,Tucumán,1.0,400.0,400.0,Regular,Adulto
+8,Sofía,33,Santa Fe,4.0,2100.0,525.0,Regular,Adulto
+9,Diego,42,Neuquén,7.0,3300.0,471.42857142857144,Premium,Adulto
+10,Valentina,30,Bahía Blanca,6.0,2950.0,491.6666666666667,Regular,Joven
+101,Cliente_Extra_1,56,Santiago,11.0,2500.0,227.27272727272728,Regular,Senior
+102,Cliente_Extra_2,46,Santiago,8.0,6298.32354161987,787.2904427024838,Premium,Adulto
+103,Cliente_Extra_3,32,Santiago,5.0,503.5044462845645,100.7008892569129,Regular,Adulto
+104,Cliente_Extra_4,60,Santiago,4.0,4964.952016810479,1241.2380042026198,Premium,Senior
+105,Cliente_Extra_5,25,Santiago,8.0,3278.6667933247245,409.83334916559056,Premium,Joven
+106,Cliente_Extra_6,38,Santiago,8.0,3252.439222197264,406.554902774658,Premium,Adulto
+107,Cliente_Extra_7,56,Santiago,3.0,531.7983734887283,177.26612449624278,Regular,Senior
+108,Cliente_Extra_8,36,Santiago,6.0,603.7809126863709,100.63015211439516,Regular,Adulto
+109,Cliente_Extra_9,40,Santiago,5.0,2861.485971162751,572.2971942325502,Regular,Adulto
+110,Cliente_Extra_10,28,Santiago,2.0,2299.3743727186497,1149.6871863593249,Regular,Joven

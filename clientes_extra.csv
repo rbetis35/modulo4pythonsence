@@ -1,0 +1,11 @@
+ID,Edad,Total_Compras,Monto_Total,Nombre,Ciudad
+101.0,56.0,11.0,,Cliente_Extra_1,Santiago
+102.0,46.0,8.0,50000.0,Cliente_Extra_2,Santiago
+103.0,32.0,5.0,503.5044462845645,Cliente_Extra_3,Santiago
+104.0,60.0,4.0,4964.952016810479,Cliente_Extra_4,Santiago
+105.0,25.0,8.0,3278.6667933247245,Cliente_Extra_5,Santiago
+106.0,38.0,8.0,3252.439222197264,Cliente_Extra_6,Santiago
+107.0,56.0,3.0,531.7983734887283,Cliente_Extra_7,Santiago
+108.0,36.0,6.0,603.7809126863709,Cliente_Extra_8,Santiago
+109.0,40.0,5.0,2861.485971162751,Cliente_Extra_9,Santiago
+110.0,28.0,2.0,2299.3743727186497,Cliente_Extra_10,Santiago
